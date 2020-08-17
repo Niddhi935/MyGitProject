@@ -1,0 +1,56 @@
+[0812/202330.448:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0812/202330.450:ERROR:exception_snapshot_win.cc(98)] thread ID 44332 not found in process
+[0812/202406.863:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0812/202406.864:ERROR:exception_snapshot_win.cc(98)] thread ID 44948 not found in process
+[0812/202407.105:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\nidshah\AppData\Local\Temp\1\scoped_dir42064_534800604\Crashpad: The system cannot find the file specified. (0x2)
+[0812/211332.811:ERROR:process_memory_win.cc(73)] ReadMemory at 0x53c7660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0812/211332.814:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0812/211332.847:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0812/211332.847:ERROR:exception_snapshot_win.cc(98)] thread ID 3036 not found in process
+[0812/211332.855:ERROR:process_info.cc(359)] UncheckedAllocate
+[0812/211332.865:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0812/211332.865:ERROR:exception_snapshot_win.cc(98)] thread ID 25152 not found in process
+[0812/211758.868:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc97660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0812/211758.868:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0812/211759.061:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0812/211845.260:ERROR:process_memory_win.cc(73)] ReadMemory at 0x5227660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0812/211845.260:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0812/211845.312:ERROR:process_info.cc(359)] UncheckedAllocate
+[0812/211845.616:ERROR:process_memory_win.cc(73)] ReadMemory at 0x5547660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0812/211845.616:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0812/211845.648:ERROR:process_info.cc(359)] UncheckedAllocate
+[0812/211848.769:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0812/211848.769:ERROR:exception_snapshot_win.cc(98)] thread ID 1868 not found in process
+[0813/113348.225:ERROR:process_memory_win.cc(73)] ReadMemory at 0x53c7660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0813/113348.227:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0813/113352.565:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0813/113352.565:ERROR:exception_snapshot_win.cc(98)] thread ID 50140 not found in process
+[0813/113403.753:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0813/113403.755:ERROR:exception_snapshot_win.cc(98)] thread ID 43532 not found in process
+[0813/113403.781:ERROR:process_memory_win.cc(73)] ReadMemory at 0xc97660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0813/113403.781:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0813/113403.842:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0813/115640.359:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0813/115640.360:ERROR:exception_snapshot_win.cc(98)] thread ID 49228 not found in process
+[0813/115640.405:ERROR:process_memory_win.cc(73)] ReadMemory at 0x59e7660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0813/115640.406:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0813/115640.518:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0814/133719.665:ERROR:process_memory_win.cc(73)] ReadMemory at 0x55d7660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0814/133719.667:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0814/133719.961:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0814/134034.874:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0814/134039.154:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0814/134039.154:ERROR:exception_snapshot_win.cc(98)] thread ID 56288 not found in process
+[0814/134044.416:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0814/134044.416:ERROR:exception_snapshot_win.cc(98)] thread ID 56596 not found in process
+[0814/151040.007:ERROR:process_memory_win.cc(73)] ReadMemory at 0x5357660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0814/151040.009:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0814/151040.062:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0814/151054.258:ERROR:process_memory_win.cc(73)] ReadMemory at 0xeb7660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0814/151054.259:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0814/151054.327:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0814/151054.720:ERROR:process_memory_win.cc(73)] ReadMemory at 0x55d7660 of 28 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0814/151054.720:WARNING:pe_image_reader.cc(171)] could not read data directory from C:\Windows\SYSTEM32\ntd1l.dll
+[0814/151054.800:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0816/192749.748:ERROR:process_reader_win.cc(90)] NtQuerySystemInformation: {Not Enough Quota} Not enough virtual memory or paging file quota is available to complete the specified operation. (0xc0000017)
+[0816/192749.749:ERROR:exception_snapshot_win.cc(98)] thread ID 40816 not found in process
